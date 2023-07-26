@@ -1,0 +1,28 @@
+{
+  "description": "A cute corgi to go along with the ERC-6551 tutorial on https://hellopeter.xyz/tutorials/erc6551",
+  "external_url": "https://hellopeter.xyz/tutorials/erc6551",
+  "image": "https://sblabs.mypinata.cloud/ipfs/QmYXB91dCHuzooYGfX7ruCasksb4xfboEoRUvfkNn9AE6i",
+  "name": "Cute Corgi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Huge"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Chonkiness",
+      "value": 100
+    }
+  ]
+}
